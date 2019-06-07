@@ -1,0 +1,90 @@
+{
+    "skelbimai": [{
+            "id": "0",
+            "nuskenavimoData": {
+                "year": 999999999,
+                "month": 12,
+                "day": 31
+            },
+            "istrinimoData": {
+                "year": 2019,
+                "month": 6,
+                "day": 6
+            },
+            "pardavimoData": {
+                "year": 2019,
+                "month": 6,
+                "day": 6
+            },
+            "metai": 5,
+            "kaina": 5,
+            "kebuloTipas": "KABRIOLETAS",
+            "rida": 1.5555,
+            "kuroTipas": "DYZELINAS",
+            "spalva": "BALTA",
+            "gamintojas": "TOYOTA"
+        }, {
+            "id": "1",
+            "nuskenavimoData": {
+                "year": 999999999,
+                "month": 12,
+                "day": 31
+            },
+            "istrinimoData": {
+                "year": 2019,
+                "month": 6,
+                "day": 6
+            },
+            "pardavimoData": {
+                "year": 2019,
+                "month": 6,
+                "day": 6
+            },
+            "metai": 5,
+            "kaina": 5,
+            "kebuloTipas": "KABRIOLETAS",
+            "rida": 1.5555,
+            "kuroTipas": "DYZELINAS",
+            "spalva": "BALTA",
+            "gamintojas": "TOYOTA"
+        }, {
+            "id": "2",
+            "nuskenavimoData": {
+                "year": 999999999,
+                "month": 12,
+                "day": 31
+            },
+            "istrinimoData": {
+                "year": 2019,
+                "month": 6,
+                "day": 6
+            },
+            "pardavimoData": {
+                "year": 2019,
+                "month": 6,
+                "day": 6
+            },
+            "metai": 5,
+            "kaina": 5,
+            "kebuloTipas": "KABRIOLETAS",
+            "rida": 1.5555,
+            "kuroTipas": "DYZELINAS",
+            "spalva": "BALTA",
+            "gamintojas": "TOYOTA"
+        }, {
+            "id": "abc0",
+            "nuskenavimoData": {
+                "year": 999999999,
+                "month": 12,
+                "day": 31
+            },
+            "metai": 5,
+            "kaina": 5,
+            "kebuloTipas": "KABRIOLETAS",
+            "rida": 1.5555,
+            "greiciudeze": "MECHANINĖ",
+            "kuroTipas": "DYZELINAS",
+            "spalva": "BALTA",
+            "gamintojas": "TOYOTA"
+        }]
+}
